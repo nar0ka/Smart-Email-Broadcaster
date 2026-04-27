@@ -41,7 +41,7 @@ This is a professional-grade JSON template for n8n.
 ### 🛒 Get Full Access
 Take control of your outreach today.
 
-[**👉 Get Smart Email Broadcaster on Gumroad**](https://naroka.gumroad.com)
+[**👉 Get Smart Email Broadcaster on Gumroad**](https://naroka.gumroad.com/l/email-broadcast-pro-n8n)
 
 ---
 *Developed by [Naroka Studio](https://github.com/Naroka-Studio)*

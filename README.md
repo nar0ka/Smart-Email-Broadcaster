@@ -7,7 +7,7 @@ Stop paying for monthly email subscriptions. This n8n workflow transforms your *
 ---
 
 ### 🛠 System Architecture
-![Broadcaster Schema](your_screenshot_name.png)
+![Broadcaster Schema](111.png)
 
 > **The Power of Ownership**
 > Why pay $50/mo for email services when you can run your own engine? Smart Email Broadcaster gives you 100% control over your data and your delivery.
